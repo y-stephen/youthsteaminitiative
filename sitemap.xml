@@ -1,23 +1,71 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://youthsteaminitiative.org/</loc>
-<lastmod>2025-01-12T18:21:14+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://youthsteaminitiative.org/mission.html</loc>
-<lastmod>2025-01-12T18:21:14+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://youthsteaminitiative.org/learning-center.html</loc>
-<lastmod>2025-01-12T18:21:14+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://youthsteaminitiative.org/index.html</loc>
-<lastmod>2025-01-12T18:21:14+00:00</lastmod>
-<priority>0.64</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://youthsteaminitiative.org/</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/index.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/members.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/groupphotos.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/history.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/financial.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/contact.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/learning-center.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/senior-alumni-panel.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/illuminate.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://youthsteaminitiative.org/websiteoutreach.html</loc>
+       <lastmod>2026-07-19T04:18:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
 </urlset>

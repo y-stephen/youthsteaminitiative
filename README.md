@@ -1,5 +1,5 @@
 **Youth STEAM Initiative Website**
 
-Primary Domain: youthsteaminitiative.org
+Primary Domain: https://youthsteaminitiative.org
 
-Contact Yuanheng or Stephen if you'd like to make any edits.
+Contact Stephen if you'd like to make any edits.
