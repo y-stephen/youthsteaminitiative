@@ -26,6 +26,9 @@ class FooterComponent extends HTMLElement {
             <a href="visitorcount.html" class="btn btn-footer">
               <i class="bi bi-people-fill me-1"></i> View Visitor Count
             </a>
+            <a href="calendar.html" class="btn btn-footer">
+              <i class="bi bi-calendar-event me-1"></i> View Calendar
+            </a>
           </div>
         </div>
       </footer>
