@@ -11,8 +11,11 @@ class FooterComponent extends HTMLElement {
             <a href="https://www.facebook.com/people/Youth-STEAM-Team/61569154958515/" target="_blank" aria-label="Facebook">
               <i class="bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/lystemteam/" target="_blank" aria-label="Instagram">
+            <a href="https://www.instagram.com/youth.steam.initiative/" target="_blank" aria-label="Instagram">
               <i class="bi-instagram"></i>
+            </a>
+            <a href="https://www.youtube.com/@youthsteaminitiative" target="_blank" aria-label="YouTube">
+              <i class="bi-youtube"></i>
             </a>
             <a href="mailto:lyst.connect@gmail.com" target="_blank" aria-label="Email">
               <i class="bi-envelope"></i>
