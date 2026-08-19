@@ -42,6 +42,32 @@
     <!-- Flatly theme from bootstrap: https://bootswatch.com/flatly -->
 
     <!--		<link href = "css/flatlythemebootstrap.css" rel = "stylesheet" /> -->
+
+    <style>
+      /* --- Research initiative callout --- */
+      .research-callout {
+        background: #f4f7fb;
+        border-left: 4px solid midnightblue;
+        border-radius: 6px;
+        padding: 1.25rem 1.5rem;
+        margin: 1.5rem 0;
+      }
+      .research-callout h3 {
+        margin-top: 0;
+      }
+
+      /* --- Question form intro card --- */
+      .form-intro {
+        background: #fff;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        padding: 1rem 1.25rem;
+        margin-bottom: 1rem;
+      }
+      .form-intro p {
+        margin-bottom: 0.5rem;
+      }
+    </style>
   </head>
 
   <body id="page-top">
@@ -120,18 +146,34 @@
                 </p>
               </a>
 
-              <br />
-              <h3 class="h4 mb-2">
-                <u>关于活动 / In Chinese</u>
-              </h3>
-              <p class="mb-2">
-                人们如何把过去的记忆变成新的想法？人工智能能做到同样的事情吗？王海勋博士将用通俗易懂的语言，讲解记忆、想象力与创造力之间的联系，
-                以及目前的人工智能系统在原创性方面仍然存在的局限。欢迎通过右侧表单提交您想向王博士提问的问题，
-                我们将从社区收集问题，并请三位学生代表在讲座现场提出精选的问题。
-              </p>
+              <div class="research-callout">
+                <h3 class="h5">
+                  This event is also a community research project
+                </h3>
+                <p class="mb-2">
+                  Together with Dr. Wang and the PEAAII program at UMass Boston,
+                  we're studying how the Lexington community thinks about AI
+                  memory, imagination, and creativity, before and after the
+                  talk. The questions submitted below, along with a short
+                  post-event reflection, will inform a joint report we plan to
+                  publish in the
+                  <a href="https://scholarworks.umb.edu/ai/" target="_blank"
+                    >PEAAII ScholarWorks collection</a
+                  >.
+                </p>
+              </div>
             </div>
 
             <div class="col-lg-7">
+              <div class="form-intro">
+                <p>
+                  <strong>Before you submit a question:</strong> we ask a couple
+                  of quick context questions (adult or student, and if a
+                  student, grade level and public/private school). This is only
+                  to help us understand who in the community is engaging with AI
+                  topics, and it's optional.
+                </p>
+              </div>
               <p style="text-align: center">
                 <iframe
                   src="https://docs.google.com/forms/d/e/1FAIpQLSdWcvPpMRkw6byISaLDuI9vM4JVXyFJVuLxIr4-ekgXXrnhGg/viewform?embedded=true"
@@ -155,11 +197,11 @@
               <p class="mb-2">
                 This event is a partnership between Cary Library, the Youth
                 STEAM Initiative (YSI), and UMass Boston. Our goal is to help
-                promote the talk to the Lexington community in both English and
-                Chinese, and to give the community a direct way to ask Dr. Wang
-                a question. We'll collect question submissions through the form
-                above, and three student volunteers will present a selection of
-                the community's questions during the talk.
+                promote the talk to the Lexington community in multiple
+                languages, and to give the community a direct way to ask Dr.
+                Wang a question. We'll collect question submissions through the
+                form above, and three student volunteers will present a
+                selection of the community's questions during the talk.
               </p>
               <br />
               <br />
@@ -186,10 +228,16 @@
               </p>
             </div>
             <div class="column right">
-              <!-- TODO: add a photo of Dr. Wang here if/when available, e.g.
-                             images/haixunwang.jpg, similar to how the TingTalk page used
-                             Tingface.png / proud.jpg -->
-                <img src="images/haixun.jpg" alt="Dr. Haixun Wang" style="width: 100%; height: auto; object-fit: cover; object-position: center;" />
+              <img
+                src="images/haixun.jpg"
+                alt="Dr. Haixun Wang"
+                style="
+                  width: 100%;
+                  height: auto;
+                  object-fit: cover;
+                  object-position: center;
+                "
+              />
             </div>
           </div>
         </div>
