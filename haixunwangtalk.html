@@ -12,6 +12,19 @@
     />
     <meta name="author" content="" />
     <title>How AI Remembers, Imagines, and Creates</title>
+
+    <!-- Open Graph tags so the link looks good when shared on social media / messaging apps -->
+    <meta
+      property="og:title"
+      content="How AI Remembers, Imagines, and Creates"
+    />
+    <meta
+      property="og:description"
+      content="A talk by Dr. Haixun Wang, Tuesday, September 1, 7:00-8:30 PM at Cary Memorial Library. Submit a question for the speaker."
+    />
+    <meta property="og:image" content="images/haixunwangtalkPoster.jpg" />
+    <meta property="og:type" content="website" />
+
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico?v=2" />
     <!-- Bootstrap Icons-->
@@ -36,15 +49,9 @@
     />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
-
     <link href="css/breadcrumb.css" rel="stylesheet" />
 
-    <!-- Flatly theme from bootstrap: https://bootswatch.com/flatly -->
-
-    <!--		<link href = "css/flatlythemebootstrap.css" rel = "stylesheet" /> -->
-
     <style>
-      /* --- Question form intro card --- */
       .form-intro {
         background: #fff;
         border: 1px solid #e0e0e0;
@@ -55,15 +62,12 @@
       .form-intro p {
         margin-bottom: 0.5rem;
       }
-    </style>
-  </head>
 
-  <body id="page-top">
-    <nav-component></nav-component>
+      .section-spacer {
+        margin-top: 2.5rem;
+      }
 
-    <div
-      class="top-left"
-      style="
+      .event-banner {
         margin-top: 72px;
         height: 280px;
         width: 100%;
@@ -71,28 +75,62 @@
         display: flex;
         align-items: flex-end;
         justify-content: center;
-      "
-    >
-      <img
-        src="images/aitalkbanner.jpg"
-        alt="AI Talk Banner"
-        style="
-          width: 100%;
-          height: 100%;
-          object-fit: cover;
-          object-position: center bottom;
-          display: block;
-        "
-      />
+      }
+      .event-banner img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center bottom;
+        display: block;
+      }
+
+      .register-link img {
+        width: 70%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 6px;
+        transition:
+          transform 0.15s ease,
+          box-shadow 0.15s ease;
+      }
+      .register-link:hover img {
+        transform: scale(1.02);
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+      }
+
+      .team-photo img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 6px;
+      }
+
+      .question-form-frame {
+        width: 100%;
+        min-height: 760px;
+        border: none;
+      }
+    </style>
+  </head>
+
+  <body id="page-top">
+    <nav-component></nav-component>
+
+    <div class="event-banner">
+      <img src="images/aitalkbanner.jpg" alt="AI Talk Banner" />
     </div>
 
     <section class="page-section" style="padding-top: 1.5rem" id="services">
       <div class="container px-4 px-lg-5">
-        <h2 class="text-center mt-0" style="font-size: 3rem">
-          <b>How AI Remembers, Imagines, and Creates</b>
-        </h2>
+        <h1 class="text-center mt-0" style="font-size: 3rem">
+          How AI Remembers, Imagines, and Creates
+        </h1>
         <h2 class="text-center mt-0" style="font-size: 1.5rem">
-          <b>TUESDAY, SEPTEMBER 1, 7:00-8:30 PM</b>
+          TUESDAY, SEPTEMBER 1, 7:00-8:30 PM
         </h2>
         <h3
           class="text-center mt-0"
@@ -110,125 +148,102 @@
             margin-top: 1rem;
           "
         />
-        <div>
-          <div class="row">
-            <div class="col-lg-5">
-              <br />
-              <p class="mb-2">
-                How do people turn old memories into new ideas, and can AI do
-                the same? Dr. Haixun Wang will explain how memory, imagination,
-                and creativity connect, and where today's AI systems fall short
-                of human originality.
+        <div class="row">
+          <div class="col-lg-5">
+            <p class="mb-2">
+              How do people turn old memories into new ideas, and can AI do the
+              same? Dr. Haixun Wang will explain how memory, imagination, and
+              creativity connect, and where today's AI systems fall short of
+              human originality.
+            </p>
+            <br /><br />
+            <a
+              class="register-link"
+              href="https://carylibrary.assabetinteractive.com/calendar/how-ai-remembers-imagines-and-creates/"
+              target="_blank"
+              rel="noopener"
+              style="display: block"
+            >
+              <p class="h6 mb-2" style="text-align: center">
+                Click to register with Cary Library
               </p>
-              <a
-                href="https://carylibrary.assabetinteractive.com/calendar/how-ai-remembers-imagines-and-creates/"
-                target="_blank"
-                style="display: block"
-              >
-                <p class="h6 mb-2" style="text-align: center">
-                  Click here to register with Cary Library (separate from the
-                  question form)
-                </p>
-                <img
-                  src="images/haixunwangtalkPoster.jpg"
-                  alt="Talk Poster"
-                  style="
-                    width: 70%;
-                    height: auto;
-                    display: block;
-                    margin: 0 auto;
-                    object-fit: cover;
-                    object-position: center;
-                  "
-                />
-              </a>
-            </div>
-            <div class="col-lg-7">
-              <br />
-              <div class="form-intro">
-                <p>
-                  <strong>Before you submit a question:</strong> we ask a couple
-                  of quick context questions (adult or student, grade level and
-                  public/private school). This is only to help us understand who
-                  in the community is engaging with AI topics, and it's
-                  optional.
-                </p>
-              </div>
-              <p style="text-align: center">
-                <iframe
-                  src="https://docs.google.com/forms/d/e/1FAIpQLSdWcvPpMRkw6byISaLDuI9vM4JVXyFJVuLxIr4-ekgXXrnhGg/viewform?embedded=true"
-                  width="100%"
-                  height="542px"
-                  frameborder="0"
-                  marginheight="0"
-                  marginwidth="0"
-                  >Loading…</iframe
-                >
-              </p>
-            </div>
-          </div>
-          <br /><br /><br />
-          <div class="row">
-            <div class="column left">
-              <h3 class="h4 mb-2">
-                <u>Community Building</u>
-              </h3>
-
-              <p class="mb-2">
-                This event is a partnership between Cary Library, the Youth
-                STEAM Initiative (YSI), and UMass Boston. Our goal is to help
-                promote the talk to the Lexington community in multiple
-                languages, and to give the community a direct way to ask Dr.
-                Wang a question. We'll collect question submissions through the
-                form above, and three student volunteers will present a
-                selection of the community's questions during the talk. The
-                questions submitted below, along with a short post-event
-                reflection, will inform a joint report we plan to publish in the
-                <a href="https://scholarworks.umb.edu/ai/" target="_blank"
-                  >PEAAII ScholarWorks collection</a
-                >.
-              </p>
-              <br />
-              <br />
-              <h3 class="h4 mb-2">
-                <u>About Dr. Haixun Wang</u>
-              </h3>
-              <p class="mb-2">
-                Dr. Haixun Wang is an ACM Fellow and IEEE Fellow,
-                Editor-in-Chief of the IEEE Data Engineering Bulletin, a VLDB
-                board trustee, and an affiliate professor at the University of
-                Washington. He currently serves as VP of Engineering and Head of
-                AI at EvenUp, where he works on applying large language models
-                to legal and medical document understanding. He previously held
-                AI and applied science leadership roles at Instacart, WeWork,
-                Amazon, and Meta, and was a researcher at Microsoft, Google, and
-                IBM.
-              </p>
-              <br />
-              <p class="h6 mb-2">
-                <i
-                  >Organizing team: Eric Gu, Stephen Yang, Grace Li, Juliana
-                  Yin</i
-                >
-              </p>
-            </div>
-            <div class="column right">
               <img
-                src="images/haixun.jpg"
-                alt="Dr. Haixun Wang"
-                style="
-                  width: 100%;
-                  height: auto;
-                  object-fit: cover;
-                  object-position: center;
-                "
+                src="images/haixunwangtalkPoster.jpg"
+                alt="Event poster for How AI Remembers, Imagines, and Creates"
               />
+            </a>
+          </div>
+
+          <div class="col-lg-7">
+            <div class="form-intro">
+              <p>
+                Have a question for Dr. Wang? Submit it below and three student
+                volunteers will present a selection of community questions live
+                during the talk.
+              </p>
+              <p class="mb-0">
+                <em
+                  >The form below is optional and helps us understand who in the
+                  community is engaging with AI topics</em
+                >
+              </p>
             </div>
+            <iframe
+              class="question-form-frame"
+              src="https://docs.google.com/forms/d/e/1FAIpQLSdWcvPpMRkw6byISaLDuI9vM4JVXyFJVuLxIr4-ekgXXrnhGg/viewform?embedded=true"
+              title="Submit a question for Dr. Haixun Wang"
+              loading="lazy"
+              >Loading…</iframe
+            >
+          </div>
+        </div>
+
+        <div class="row section-spacer">
+          <div class="col-lg-8">
+            <h3 class="h4 mb-2"><u>Community Building</u></h3>
+            <p class="mb-2">
+              This event is a partnership between Cary Library, the Youth STEAM
+              Initiative (YSI), and UMass Boston. Our goal is to help promote
+              the talk to the Lexington community in multiple languages, and to
+              give the community a direct way to ask Dr. Wang a question. We'll
+              collect question submissions through the form above, and three
+              student volunteers will present a selection of the community's
+              questions during the talk. The questions submitted, along with a
+              short post-event reflection, will inform a joint report we plan to
+              publish in the
+              <a
+                href="https://scholarworks.umb.edu/ai/"
+                target="_blank"
+                rel="noopener"
+                >PEAAII ScholarWorks collection</a
+              >.
+            </p>
+
+            <h3 class="h4 mb-2 section-spacer"><u>About Dr. Haixun Wang</u></h3>
+            <p class="mb-2">
+              Dr. Haixun Wang is an ACM Fellow and IEEE Fellow, Editor-in-Chief
+              of the IEEE Data Engineering Bulletin, a VLDB board trustee, and
+              an affiliate professor at the University of Washington. He
+              currently serves as VP of Engineering and Head of AI at EvenUp,
+              where he works on applying large language models to legal and
+              medical document understanding. He previously held AI and applied
+              science leadership roles at Instacart, WeWork, Amazon, and Meta,
+              and was a researcher at Microsoft, Google, and IBM.
+            </p>
+
+            <p class="h6 mb-2">
+              <i
+                >Organizing team: Eric Gu, Stephen Yang, Juliana Yin, Zhengjia
+                Yang</i
+              >
+            </p>
+          </div>
+          <div class="col-lg-4 team-photo">
+            <img src="images/haixun.jpg" alt="Dr. Haixun Wang" />
           </div>
         </div>
       </div>
-      <br />
-      <br />
+      <div class="section-spacer"></div>
     </section>
 
     <footer-component></footer-component>
