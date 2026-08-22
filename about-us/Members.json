@@ -14,7 +14,7 @@
       "lastName": "Li",
       "grade": "12",
       "hobbies": "math, linguistics, music, running, anime",
-      "csExperience": "C++, Python, HTML, CSS"
+      "csExperience": "Python, C++, HTML, CSS, Machine Learning, AI Agents, NLP, Transformers, Arduino"
     },
     {
       "imageLink": "StephenYang2.png",
@@ -57,14 +57,6 @@
       "grade": "12",
       "hobbies": "Math, vocaloid, traditional art",
       "csExperience": "HTML, CSS, Java"
-    },
-    {
-      "imageLink": "Trenton_Fan.webp",
-      "firstName": "Trenton",
-      "lastName": "Fan",
-      "grade": "9",
-      "hobbies": "Math, science, violin, video editing and creation, and visual art",
-      "csExperience": "Python, video editing, and machine learning basics"
     },
     {
       "imageLink": "AndrewPan.jpg",
@@ -161,6 +153,14 @@
       "grade": "9",
       "hobbies": "Cello, Reading, and Writing",
       "csExperience": "Python"
+    },
+    {
+      "imageLink": "SophieLi.jpg",
+      "firstName": "Sophie",
+      "lastName": "Li",
+      "grade": "8",
+      "hobbies": "Violin, Dance, Puzzles, Reading, Cooking",
+      "csExperience": "Basic python, problem solving, video editing"
     }
   ]
 }
