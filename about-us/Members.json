@@ -107,6 +107,14 @@
       "csExperience": "Python basic and C++ (beginning)"
     },
     {
+      "imageLink": "LiamGao.png",
+      "firstName": "Liam",
+      "lastName": "Gao",
+      "grade": "8",
+      "hobbies": "Coding, Figure Skating, Math, Piano, 3D Modeling",
+      "csExperience": "Python, HTML, CSS, JavaScript, Swift, Video Editing, Autodesk Fusion"
+    },
+    {
       "imageLink": "GraceLi.JPG",
       "firstName": "Grace",
       "lastName": "Li",
