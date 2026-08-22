@@ -1,0 +1,274 @@
+[
+  {
+    "firstName": "Yuanheng",
+    "lastName": "Mao",
+    "imageLink": "YuanhengMao.jpg",
+    "classYear": "2026",
+    "currentSchool": "Harvard University"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Shao",
+    "imageLink": "EthanShao3.jpeg",
+    "classYear": "2026",
+    "currentSchool": "Vanderbilt University"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "He",
+    "imageLink": "EmmaHe.jpeg",
+    "classYear": "2026",
+    "currentSchool": "Emory University"
+  },
+  {
+    "firstName": "Lillian",
+    "lastName": "Yang",
+    "imageLink": "LillianYang.jpg",
+    "classYear": "2026",
+    "currentSchool": "UCLA"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Liu",
+    "imageLink": "ClaireLiu.jpg",
+    "classYear": "2026",
+    "currentSchool": "Stanford University"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Zhou",
+    "imageLink": "SophiaZhou.jpeg",
+    "classYear": "2026"
+  },
+  {
+    "firstName": "Joley",
+    "lastName": "Leung",
+    "imageLink": "JoleyLeung.png",
+    "classYear": "2026"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Xu",
+    "imageLink": "JerryXu.jpg",
+    "classYear": "2026",
+    "currentSchool": "MIT"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Gu",
+    "imageLink": "JasmineGu2.jpg",
+    "classYear": "2026",
+    "currentSchool": "UC Berkeley"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Gu",
+    "imageLink": "AndrewGu.png",
+    "classYear": "2026",
+    "currentSchool": "Carnegie Mellon University"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "He",
+    "imageLink": "MichaelHe.jpeg",
+    "classYear": "2026",
+    "currentSchool": "Northeastern University"
+  },
+  {
+    "firstName": "Taku",
+    "lastName": "Ishibashi",
+    "imageLink": "Taku.png"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Zhang",
+    "imageLink": "AndrewZhang.png"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Zhu",
+    "imageLink": "KevinZhu.jpg",
+    "classYear": "2025",
+    "currentSchool": "Carnegie Mellon University"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Zhang",
+    "imageLink": "WilliamZhang.jpg",
+    "classYear": "2025",
+    "currentSchool": "Purdue University"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Xing-Xie",
+    "imageLink": "Trevor.jpg",
+    "classYear": "2023",
+    "currentSchool": "Vanderbilt University"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Zheng",
+    "imageLink": "Lucas.jpg"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Fu",
+    "imageLink": "DylanFu.png"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Wu",
+    "imageLink": "AndrewWu.png"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Zhao",
+    "imageLink": "David.jpg",
+    "classYear": "2023",
+    "currentSchool": "RPI"
+  },
+  {
+    "firstName": "Baoren",
+    "lastName": "Liu",
+    "imageLink": "Baoren.jpg",
+    "classYear": "2024",
+    "currentSchool": "UIUC"
+  },
+  {
+    "firstName": "Ivy",
+    "lastName": "Tang",
+    "imageLink": "IvyTang.png",
+    "classYear": "2024",
+    "currentSchool": "Northeastern University"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Lau",
+    "imageLink": "AlexLau.png",
+    "classYear": "2024",
+    "currentSchool": "UMass Amherst"
+  },
+  {
+    "firstName": "Irene",
+    "lastName": "Gao",
+    "imageLink": "IreneGao.png",
+    "classYear": "2024",
+    "currentSchool": "Columbia"
+  },
+  {
+    "firstName": "Everest",
+    "lastName": "Yang",
+    "imageLink": "everest.jpg",
+    "classYear": "2023",
+    "currentSchool": "Brown University"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Wang",
+    "imageLink": "ellen2.jpg",
+    "classYear": "2023",
+    "currentSchool": "Stanford University",
+    "note": "\"This is a team of wholesome and innovative people that want to give back to their community :)\""
+  },
+  {
+    "firstName": "Cassidy",
+    "lastName": "Xu",
+    "imageLink": "CassidyXu.png",
+    "classYear": "2023",
+    "currentSchool": "Cornell University"
+  },
+  {
+    "firstName": "Jaden",
+    "lastName": "Leung",
+    "imageLink": "Jaden.jpg",
+    "classYear": "2023",
+    "currentSchool": "University of Waterloo",
+    "note": "\"My favorite moment was when we realized one of the photos in the photography exhibition was Everest.\""
+  },
+  {
+    "firstName": "Audi",
+    "lastName": "Lin",
+    "imageLink": "Audi.png",
+    "classYear": "2023",
+    "currentSchool": "Carnegie Mellon University",
+    "note": "\"I liked making a positive impact on the Lexington community through the little projects I contributed to while on the Lex STEAM Team.\""
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Zhu",
+    "imageLink": "Edward.jpg",
+    "classYear": "2023",
+    "currentSchool": "UC Irvine"
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Zhang",
+    "imageLink": "Ashley.jpg",
+    "classYear": "2023",
+    "currentSchool": "John Hopkins University"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Olcott",
+    "imageLink": "EliOlcott.png",
+    "classYear": "2023",
+    "currentSchool": "Harvard University"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Lin",
+    "imageLink": "NeilLin.png",
+    "classYear": "2023",
+    "currentSchool": "U of British Columbia"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Chen",
+    "imageLink": "Linda Chen.jpg",
+    "classYear": "2021",
+    "currentSchool": "MIT",
+    "note": "The first member of the team!"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Lu",
+    "imageLink": "Kenneth.jpg",
+    "note": "Part of the team December 2020 - April 2021"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Lin",
+    "imageLink": "Albert.jpg",
+    "classYear": "2022",
+    "currentSchool": "Carnegie Mellon University",
+    "note": "Currently an undergraduate student majoring in Information Systems"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Sui",
+    "imageLink": "Gabriel.jpg",
+    "classYear": "2022",
+    "currentSchool": "University of Oxford",
+    "note": "Currently an undergraduate student majoring in Computer Science"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Xia",
+    "imageLink": "Frank.jpg",
+    "classYear": "2022",
+    "currentSchool": "University of Massachusetts Amherst",
+    "note": "Currently an undergraduate student majoring in Computer Science"
+  },
+  {
+    "firstName": "Katerina",
+    "lastName": "Lung",
+    "imageLink": "Katerina.jpg",
+    "note": "Part of the team November 2021 - March 2022"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Lin",
+    "imageLink": "https://ui-avatars.com/api/?name=A+L",
+    "isRemote": true
+  }
+]

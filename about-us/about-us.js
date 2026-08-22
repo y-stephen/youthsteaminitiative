@@ -8,8 +8,22 @@ function renderPeople() {
   });
 }
 
+function renderAlumni() {
+  if (!$("#alumni").length) {
+    return;
+  }
+
+  $.getJSON("about-us/alumni.json", function (alumni) {
+    $.get("about-us/alumni.hbs", function (template) {
+      const alumniTemplate = Handlebars.compile(template);
+      $("#alumni").append(alumniTemplate(alumni));
+    });
+  });
+}
+
 $(document).ready(function () {
   renderPeople();
+  renderAlumni();
 
   $("#memberdirectorybtn").focus();
   $("#orgchart").hide();

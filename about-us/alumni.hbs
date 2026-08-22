@@ -1,0 +1,17 @@
+{{#each this}}
+  <div class="col-lg-4 col-md-6 text-center">
+    <div class="mt-5">
+      <img src="{{#if isRemote}}{{imageLink}}{{else}}images/{{imageLink}}{{/if}}" width="235px" height="352px" class="teamimage" alt="{{firstName}} {{lastName}}" />
+      <h3 class="text-center mb-2 h4">{{firstName}} {{lastName}}</h3>
+      {{#if classYear}}
+        <p class="text-muted mb-0">Graduated in the class of {{classYear}}</p>
+      {{/if}}
+      {{#if currentSchool}}
+        <p class="text-muted mb-0">Currently in {{currentSchool}}</p>
+      {{/if}}
+      {{#if note}}
+        <p class="text-muted mb-0">{{note}}</p>
+      {{/if}}
+    </div>
+  </div>
+{{/each}}
