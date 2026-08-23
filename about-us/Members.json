@@ -33,6 +33,14 @@
       "csExperience": "Java, Python"
     },
     {
+      "imageLink": "EricGu.jpeg",
+      "firstName": "Eric",
+      "lastName": "Gu",
+      "grade": "11",
+      "hobbies": "Fencing, digital art, building/flying RC planes, video game design",
+      "csExperience": "Python, Javascript, C++, Arduino, Godot"
+    },
+    {
       "imageLink": "JiaweiLiu2.jpg",
       "firstName": "Jiawei",
       "lastName": "Liu",
