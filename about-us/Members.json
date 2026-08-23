@@ -147,6 +147,14 @@
       "csExperience": "Python"
     },
     {
+      "imageLink": "BenjaminJi.jpeg",
+      "firstName": "Benjamin",
+      "lastName": "Ji",
+      "grade": "7",
+      "hobbies": "Rowing, tennis, basketball, science, math",
+      "csExperience": "Python, Java, Scratch"
+    },
+    {
       "imageLink": "SophieLi.jpg",
       "firstName": "Sophie",
       "lastName": "Li",
