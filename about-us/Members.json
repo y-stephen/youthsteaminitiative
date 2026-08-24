@@ -169,6 +169,14 @@
       "grade": "8",
       "hobbies": "Violin, Dance, Puzzles, Reading, Cooking",
       "csExperience": "Basic python, problem solving, video editing"
+    },
+    {
+      "imageLink": "LeoChen.jpg",
+      "firstName": "Leo",
+      "lastName": "Chen",
+      "grade": "8",
+      "hobbies": "Coding, math, golfing, mountain biking, piano, and video games",
+      "csExperience": "Python, Java, some HTML/CSS"
     }
   ]
 }
