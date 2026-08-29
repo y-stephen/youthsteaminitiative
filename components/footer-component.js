@@ -72,8 +72,6 @@ class FooterComponent extends HTMLElement {
           border-color: rgb(58, 98, 200);
         }
       </style>
-      <script data-goatcounter="https://youthsteaminitiative.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
     `;
   }
 }

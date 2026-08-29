@@ -52,36 +52,9 @@
         <h2 class="fw-bold text-primary display-4">
           <span id="visitor-count">Loading...</span>
         </h2>
-        <br /><br /><br />
-        <h2>Website Visitor Count Since August 15th, 2026</h2>
-        <a href="https://youthsteaminitiative.goatcounter.com" target="_blank"
-          >GoatCounter</a
-        >
       </div>
     </div>
     <footer-component></footer-component>
-    <script>
-      var t = setInterval(function () {
-        if (window.goatcounter && window.goatcounter.visit_count) {
-          clearInterval(t);
-          window.goatcounter.visit_count({ append: "body" });
-        }
-      }, 100);
-    </script>
-    <script
-      data-goatcounter="https://youthsteaminitiative.goatcounter.com/count"
-      async
-      src="//gc.zgo.at/count.js"
-    ></script>
-    <script>
-      // Append to the <body>; can use a CSS selector to append somewhere else.
-      window.goatcounter.visit_count({ append: "body" });
-    </script>
-    <script
-      data-goatcounter="https://youthsteaminitiative.goatcounter.com/count"
-      async
-      src="//gc.zgo.at/count.js"
-    ></script>
 
     <script type="module">
       import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
