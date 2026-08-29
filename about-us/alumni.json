@@ -44,12 +44,13 @@
     "firstName": "Joley",
     "lastName": "Leung",
     "imageLink": "JoleyLeung.png",
-    "classYear": "2026"
+    "classYear": "2026",
+    "currentSchool": "RISD"
   },
   {
     "firstName": "Jerry",
     "lastName": "Xu",
-    "imageLink": "JerryXu.jpg",
+    "imageLink": "JerryXu2.png",
     "classYear": "2026",
     "currentSchool": "MIT"
   },

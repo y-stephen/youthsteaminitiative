@@ -123,6 +123,14 @@
       "csExperience": "problem solving, basic python"
     },
     {
+      "imageLink": "JulieYin.png",
+      "firstName": "Juliana",
+      "lastName": "Yin",
+      "grade": "7",
+      "hobbies": "Volleyball, Tennis, XC, Robotics",
+      "csExperience": "Block coding for FLLC, learning python"
+    },
+    {
       "imageLink": "AmyZhang.jpeg",
       "firstName": "Amy",
       "lastName": "Zhang",
@@ -177,6 +185,14 @@
       "grade": "8",
       "hobbies": "Coding, math, golfing, mountain biking, piano, and video games",
       "csExperience": "Python, Java, some HTML/CSS"
+    },
+    {
+      "imageLink": "AndrewDuan.jpg",
+      "firstName": "Andrew",
+      "lastName": "Duan",
+      "grade": "10",
+      "hobbies": "Talking with my friends, Programming, Frisbee, Music Production",
+      "csExperience": "Java and Python"
     }
   ]
 }
