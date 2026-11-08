@@ -1,0 +1,14 @@
+.search-page { max-width: 850px; min-height: 65vh; padding: 10rem 1.5rem 5rem; }
+.search-page h1 { margin-bottom: 1rem; }
+.search-page form { margin: 2rem 0; }
+.search-page label { display: block; font-family: "Merriweather Sans", sans-serif; font-weight: 700; margin-bottom: .5rem; }
+.search-controls { display: flex; gap: .75rem; }
+.search-controls input { flex: 1; min-width: 0; padding: .8rem 1rem; border: 1px solid #8b949e; border-radius: .35rem; }
+.search-controls button { padding: .8rem 1.5rem; border: 0; border-radius: .35rem; background: #c84b2d; color: white; font-family: "Merriweather Sans", sans-serif; font-weight: 700; }
+.search-controls button:hover { background: #9f3922; }
+.search-controls :focus-visible, .search-result a:focus-visible { outline: 3px solid #1467a0; outline-offset: 3px; }
+#search-status { margin-top: 2rem; }
+.search-result { padding: 1.25rem 0; border-top: 1px solid #dedede; }
+.search-result h2 { font-size: 1.25rem; margin-bottom: .5rem; }
+.search-result p { margin: 0; line-height: 1.6; }
+@media (max-width: 480px) { .search-controls { flex-direction: column; } }

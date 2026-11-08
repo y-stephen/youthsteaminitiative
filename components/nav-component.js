@@ -8,6 +8,7 @@ class Nav extends HTMLElement {
       { title: "Activity", href: "activity.html" },
       { title: "Learning Center", href: "learning-center.html" },
       { title: "Donate", href: "donate.html" },
+      { title: "Search", href: "search.html", icon: true },
     ];
 
     this.innerHTML = `
@@ -27,7 +28,7 @@ class Nav extends HTMLElement {
                 .map(
                   (page) => `
                 <li class="nav-item">
-                  <a class="nav-link" href="${page.href}">${page.title}</a>
+                  <a class="nav-link" href="${page.href}" ${page.icon ? 'aria-label="Search"' : ""}>${page.icon ? '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000000" viewBox="0 0 256 256" aria-hidden="true" focusable="false"><path d="M229.66,218.34l-50.07-50.06a88.11,88.11,0,1,0-11.31,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z"></path></svg><span>Search</span>' : page.title}</a>
                 </li>`,
                 )
                 .join("")}
@@ -40,6 +41,8 @@ class Nav extends HTMLElement {
         </div>
       </nav>
       <style>
+        #mainNav .nav-link svg { width: 20px; height: 20px; vertical-align: middle; margin-right: 0.3rem; }
+
         .nav-translate {
           margin-left: 0.75rem;
           gap: 4px;
