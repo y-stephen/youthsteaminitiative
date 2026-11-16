@@ -193,6 +193,14 @@
       "grade": "7",
       "hobbies": "Rowing, tennis, basketball, science, math",
       "csExperience": "Python, Java, Scratch"
+    },
+    {
+      "imageLink": "SerenaGao.jpeg",
+      "firstName": "Serena",
+      "lastName": "Gao",
+      "grade": "11",
+      "hobbies": "Tennis, piano",
+      "csExperience": "Java, Python, web development, AI-aided automation"
     }
   ]
 }
